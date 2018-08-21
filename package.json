@@ -1,0 +1,17 @@
+{
+  "name": "hexo-instagram",
+  "version": "0.0.2",
+  "description": "Generate instagram photo page.",
+  "dependencies": {
+    "object-assign": "^2.0.0",
+    "urllib-sync": "^1.0.1",
+    "ejs": "2.5.6",
+    "path": "^0.12.7"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taosky",
+  "license": "ISC"
+}
